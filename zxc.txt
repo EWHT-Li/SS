@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asijdaljksdlkajsd
+=======
+zxc
+>>>>>>> asd
